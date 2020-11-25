@@ -2,6 +2,9 @@
 
 I am Kavya Rajendran, a Computer Science Engineering Student at [SVCE](https://www.svce.ac.in/). 
 
+<a href="https://www.instagram.com/kavyakrithvi/"><img src="https://img.shields.io/badge/kavyakrithvi%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram: kavyakrithvi"/></a>
+<img src="https://img.shields.io/badge/Kavya Rajendran%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: Kavya Rajendran"/>  
+
 😄 Pronouns: *she/her/bro*
 
 ![krithvi's github stats](https://github-readme-stats.vercel.app/api?username=krithvi&theme=nightowl&show_icons=true&hide=issues)
@@ -22,13 +25,10 @@ Gang activities in:
 
 ⚡ Fun fact: I am learning High Valyrian with Duolingo and I can annoy you with random High Valyrian phrases *heksīr*.
 
-### 📫 Connect with me
-Let's talk about AI, Memes, Design and Mental Health :D    
-<a href="https://www.instagram.com/kavyakrithvi/"><img src="https://img.shields.io/badge/kavyakrithvi%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram: kavyakrithvi"/></a>
-<img src="https://img.shields.io/badge/Kavya Rajendran%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: Kavya Rajendran"/>    
+### 🎧 Now Listening to
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bni4ol6owamrrttxhwml6hkhya&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=31bni4ol6owamrrttxhwml6hkhya&redirect=true)
 
 <!--
 Next up: 
-- Now Listening to
 - hellofriend banner
 -->
