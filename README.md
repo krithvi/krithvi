@@ -2,8 +2,9 @@
 
 I am **Kavya Rajendran**, a Computer Science Engineering Student at [SVCE](https://www.svce.ac.in/). 
 
-<a href="https://www.instagram.com/kavyakrithvi/"><img src="https://img.shields.io/badge/kavyakrithvi%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram: kavyakrithvi"/></a>
-<a href="https://www.linkedin.com/in/kavya-rajendran"><img src="https://img.shields.io/badge/Kavya Rajendran%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: kavya-rajendran"/></a>  
+<a href="https://www.linkedin.com/in/kavya-rajendran"><img src="https://img.shields.io/badge/Kavya Rajendran%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: kavya-rajendran" /></a>
+<a href="https://www.instagram.com/kavyakrithvi/"><img src="https://img.shields.io/badge/kavyakrithvi%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram: kavyakrithvi" /></a>
+<a href="https://twitter.com/kavyakrithvi"><img src="https://img.shields.io/badge/kavyakrithvi%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter: kavyakrithvi" /></a>
 
 😄 Pronouns: *she/her/bro*
 
@@ -14,7 +15,7 @@ I am **Kavya Rajendran**, a Computer Science Engineering Student at [SVCE](https
 ## 👩🏽‍💻 Confabbing about Code
 Collaborations:    
 [![Repo Card #1](https://github-readme-stats.vercel.app/api/pin/?username=PriyaShrinithi&repo=Freidburg-s-Groceries&show_owner="true"&theme=tokyonight)](https://github.com/PriyaShrinithi/Freidburg-s-Groceries)
-- 🔭 I’m currently working on fun Python projects :P
+- 🔭 I’m currently working on projects to use **Twitter API**
 - 🌱 I’m currently learning **Node.js**, **Markdown parsers** and **UX Design**
 - 🤔 I’m looking for help with **AI Music generation models**
 
