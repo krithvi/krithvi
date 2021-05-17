@@ -14,7 +14,7 @@ I am **Kavya Rajendran**, a Computer Science Engineering Student at [SVCE](https
 
 ## 👩🏽‍💻 Confabbing about Code
 Collaborations:    
-[![Repo Card #1](https://github-readme-stats.vercel.app/api/pin/?username=PriyaShrinithi&repo=Freidburg-s-Groceries&show_owner="true"&theme=tokyonight)](https://github.com/PriyaShrinithi/Freidburg-s-Groceries)
+[![Repo Card #1](https://github-readme-stats.vercel.app/api/pin/?username=PriyaShrinithi&repo=Heimdall----Shopping-Aide-for-Visually-Impaired&show_owner="true"&theme=tokyonight)](https://github.com/PriyaShrinithi/Heimdall----Shopping-Aide-for-Visually-Impaired)
 - 🔭 I’m currently working on projects to use **Twitter API**
 - 🌱 I’m currently learning **Node.js**, **Markdown parsers** and **UX Design**
 - 🤔 I’m looking for help with **AI Music generation models**
