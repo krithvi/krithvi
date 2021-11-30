@@ -6,7 +6,7 @@ I am **Kavya Rajendran**, a Computer Science Engineering Student at [SVCE](https
 <a href="https://www.instagram.com/kavyakrithvi/"><img src="https://img.shields.io/badge/kavyakrithvi%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram: kavyakrithvi" /></a>
 <a href="https://twitter.com/kavyakrithvi"><img src="https://img.shields.io/badge/kavyakrithvi%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter: kavyakrithvi" /></a>
 
-😄 Pronouns: *she/her/bro*
+😄 Pronouns: *she/they/bro*
 
 ## 📈 Stonks
 
@@ -14,7 +14,8 @@ I am **Kavya Rajendran**, a Computer Science Engineering Student at [SVCE](https
 
 ## 👩🏽‍💻 Confabbing about Code
 Collaborations:    
-[![Repo Card #1](https://github-readme-stats.vercel.app/api/pin/?username=PriyaShrinithi&repo=Heimdall----Shopping-Aide-for-Visually-Impaired&show_owner="true"&theme=tokyonight)](https://github.com/PriyaShrinithi/Heimdall----Shopping-Aide-for-Visually-Impaired)
+[![Repo Card #1](https://github-readme-stats.vercel.app/api/pin/?username=PriyaShrinithi&repo=Heimdall---Shopping-Assistant-to-the-Visually-Impaired&show_owner="true"&theme=tokyonight)](https://github.com/PriyaShrinithi/Heimdall---Shopping-Assistant-to-the-Visually-Impaired)
+[![Repo Card #2](https://github-readme-stats.vercel.app/api/pin/?username=PriyaShrinithi&repo=Movie-Reviews&show_owner="true"&theme=tokyonight)](https://github.com/PriyaShrinithi/Movie-Reviews)
 - 🔭 I’m currently working on projects to use **Twitter API**
 - 🌱 I’m currently learning **Node.js**, **Markdown parsers** and **UX Design**
 - 🤔 I’m looking for help with **AI Music generation models**
@@ -28,7 +29,7 @@ Collaborations:
 
 - Tools: <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 
-⚡ Fun fact: I am learning High Valyrian with Duolingo and I can annoy you with random High Valyrian phrases *heksīr*.
+⚡ Fun fact: I learned High Valyrian with Duolingo and I can annoy you with random High Valyrian phrases *heksīr*.
 
 ## 🎧 Now Listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bni4ol6owamrrttxhwml6hkhya&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=31bni4ol6owamrrttxhwml6hkhya&redirect=true)
