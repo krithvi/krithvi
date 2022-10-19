@@ -1,6 +1,6 @@
 ## Hello, friend
 
-I am **Kavya Rajendran**, a Computer Science Engineering Student at [SVCE](https://www.svce.ac.in/). 
+I am **Kavya Rajendran**, a curious student pursuing MS in [Human-Centered Computing](https://en.wikipedia.org/wiki/Human-centered_computing) at [UMBC](https://hcc.umbc.edu/). 
 
 <a href="https://www.linkedin.com/in/kavya-rajendran"><img src="https://img.shields.io/badge/Kavya Rajendran%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: kavya-rajendran" /></a>
 <a href="https://www.instagram.com/kavyakrithvi/"><img src="https://img.shields.io/badge/kavyakrithvi%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram: kavyakrithvi" /></a>
