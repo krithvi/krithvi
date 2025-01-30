@@ -30,7 +30,7 @@ Collaborations:
 - Tools: <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 
 ## 🎧 Now Listening to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bni4ol6owamrrttxhwml6hkhya&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=31bni4ol6owamrrttxhwml6hkhya&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bni4ol6owamrrttxhwml6hkhya&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bni4ol6owamrrttxhwml6hkhya&redirect=true)
 
 I am a <a href="https://open.spotify.com/user/31bni4ol6owamrrttxhwml6hkhya?si=603e26ce75d8426b"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a> addict 🎶
 <!--
