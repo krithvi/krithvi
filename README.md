@@ -1,6 +1,6 @@
 ## Hello, friend
 
-I am **Kavya Rajendran**, a curious student pursuing MS in [Human-Centered Computing](https://en.wikipedia.org/wiki/Human-centered_computing) at [UMBC](https://hcc.umbc.edu/). I am aspire to conduct research in [Affective Computing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1-hcASEAAAAJ&cstart=500&pagesize=100&sortby=pubdate&citation_for_view=1-hcASEAAAAJ:HeT0ZceujKMC) and [Social Computing](https://en.wikipedia.org/wiki/Social_computing).
+I am **Kavya Rajendran**, a [Human-Centered Computing](https://en.wikipedia.org/wiki/Human-centered_computing) master's gradaute from [UMBC](https://hcc.umbc.edu/). I aspire to continue HCI research in [Affective Computing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1-hcASEAAAAJ&cstart=500&pagesize=100&sortby=pubdate&citation_for_view=1-hcASEAAAAJ:HeT0ZceujKMC) and [Social Computing](https://en.wikipedia.org/wiki/Social_computing) and design technologies for the future.
 
 <a href="https://www.linkedin.com/in/kavya-rajendran"><img src="https://img.shields.io/badge/kavya%20rajendran%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: kavya-rajendran" /></a>
 <a href="https://www.behance.net/krithvi"><img src="https://img.shields.io/badge/krithvi-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance: krithvi" /></a>
@@ -16,9 +16,9 @@ I am **Kavya Rajendran**, a curious student pursuing MS in [Human-Centered Compu
 Collaborations:    
 [![Repo Card #1](https://github-readme-stats.vercel.app/api/pin/?username=PriyaShrinithi&repo=Heimdall---Shopping-Assistant-to-the-Visually-Impaired&show_owner="true"&theme=tokyonight)](https://github.com/PriyaShrinithi/Heimdall---Shopping-Assistant-to-the-Visually-Impaired)
 [![Repo Card #2](https://github-readme-stats.vercel.app/api/pin/?username=PriyaShrinithi&repo=Movie-Reviews&show_owner="true"&theme=tokyonight)](https://github.com/PriyaShrinithi/Movie-Reviews)
-- 🔭 I’m currently working on projects to use **Twitter API**
-- 🌱 I’m currently learning **Node.js**, **Markdown parsers** and **UX Design**
-- 🤔 I’m looking for help with **AI Music generation models**
+- 🔭 I’m currently working on **UX** projects
+- 🌱 I’m currently RElearning **JavaScript** and **A/B Testing** 
+- 🤔 I’m looking for help with **Music production**
 
 ## 🗣️ Fluent in
 - Design: <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
@@ -36,6 +36,6 @@ I am a <a href="https://open.spotify.com/user/31bni4ol6owamrrttxhwml6hkhya?si=60
 <!--
 Next up: 
 - hellofriend banner
-[^stats]: Github stats customisation from https://github.com/anuraghazra/github-readme-stats
+[^stats]: Github stats customisation from https://github.com/kittinan/spotify-github-profile
 [^badge]: Markdown badges from https://github.com/Ileriayo/markdown-badges
 -->
