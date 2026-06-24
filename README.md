@@ -1,6 +1,6 @@
 ## Hello, friend
 
-I am **Kavya Rajendran**, a [Human-Centered Computing](https://en.wikipedia.org/wiki/Human-centered_computing) master's gradaute from [UMBC](https://hcc.umbc.edu/). I aspire to continue HCI research in [Affective Computing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1-hcASEAAAAJ&cstart=500&pagesize=100&sortby=pubdate&citation_for_view=1-hcASEAAAAJ:HeT0ZceujKMC) and [Social Computing](https://en.wikipedia.org/wiki/Social_computing) and design technologies for the future.
+I am **Kavya Rajendran**, a [Human-Centered Computing](https://en.wikipedia.org/wiki/Human-centered_computing) PhD student at [UMBC](https://hcc.umbc.edu/). I am involved in [Affective Computing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1-hcASEAAAAJ&cstart=500&pagesize=100&sortby=pubdate&citation_for_view=1-hcASEAAAAJ:HeT0ZceujKMC) and [Social Computing](https://en.wikipedia.org/wiki/Social_computing) research for designing technologies for the future well-being.
 
 <a href="https://www.linkedin.com/in/kavya-rajendran"><img src="https://img.shields.io/badge/kavya%20rajendran%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: kavya-rajendran" /></a>
 <a href="https://www.behance.net/krithvi"><img src="https://img.shields.io/badge/krithvi-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance: krithvi" /></a>
@@ -28,12 +28,12 @@ Collaborations:
 - Frameworks: <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 - Tools: <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
-
+<!--
 ## 🎧 Now Listening to
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bni4ol6owamrrttxhwml6hkhya&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bni4ol6owamrrttxhwml6hkhya&redirect=true)
 
 I am a <a href="https://open.spotify.com/user/31bni4ol6owamrrttxhwml6hkhya?si=603e26ce75d8426b"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a> addict 🎶
-<!--
+
 Next up: 
 - hellofriend banner
 [^stats]: Github stats customisation from https://github.com/kittinan/spotify-github-profile
