@@ -1,32 +1,22 @@
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="banner"/>
 </div>
-## Hello, friend
-
-I am **Kavya Rajendran**, a [Human-Centered Computing](https://en.wikipedia.org/wiki/Human-centered_computing) PhD student at [UMBC](https://hcc.umbc.edu/). I am involved in [Affective Computing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1-hcASEAAAAJ&cstart=500&pagesize=100&sortby=pubdate&citation_for_view=1-hcASEAAAAJ:HeT0ZceujKMC) and [Social Computing](https://en.wikipedia.org/wiki/Social_computing) research for designing technologies for the future well-being.
 
 <a href="https://www.linkedin.com/in/kavya-rajendran"><img src="https://img.shields.io/badge/kavya%20rajendran%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: kavya-rajendran" /></a>
 <a href="https://www.behance.net/krithvi"><img src="https://img.shields.io/badge/krithvi-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance: krithvi" /></a>
 <a href="https://twitter.com/kavyakrithvi"><img src="https://img.shields.io/badge/kavyakrithvi%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter: kavyakrithvi" /></a>
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=CFE3C9&background=1B1330&center=true&vCenter=true&width=650&height=45&lines=Human-Centered+Computing+PhD+%40+UMBC;Affective+Computing+%2B+Social+Computing;she%2Fthey%2Fbro)
  
 ```text
 role     Second-year HCC PhD Student
 focus    HCI × Affective Computing × Dance Movement × Social Computing
-status   open to work — Summer 2027 Internships
-looking  UX Researcher · UI/UX Designer · Product Designer (grad/PhD intern)
+job      Teaching Assistant - IS 303, HCC 629, HCC 741
+status   Preparing for comps
+summer   open to work — Summer 2027 Internships
+future  UX Researcher · UI/UX Designer · Product Designer (grad/PhD intern)
 ```
  
-[![Go to Portfolio](https://img.shields.io/badge/Go%20to%20Portfolio-9B8BD9?style=for-the-badge)](https://krithvi.github.io/space-cadet/)
-[![View CV](https://img.shields.io/badge/View%20CV-6E5CB8?style=for-the-badge)](https://krithvi.github.io/krithvi/CV.pdf)
- 
-
-## `$ ls currently/`
- 
-- 🪄 working on **UX projects**
-- 🚀 re-learning **JavaScript** and **LaTeX**
-- 🤔 looking for help with **CHI-Workshop Proposal Writing**
+[`❯ open portfolio`](https://krithvi.github.io/space-cadet/) · [`❯ open cv.pdf`](https://krithvi.github.io/krithvi/CV.pdf)
 
 ## `$ cat skills.json`
  
@@ -42,15 +32,20 @@ looking  UX Researcher · UI/UX Designer · Product Designer (grad/PhD intern)
 ### tools
 <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 
+## `$ ls currently/`
+ 
+- 🪄 working on **UX projects**
+- 🚀 re-learning **JavaScript** and **LaTeX**
+- 🤔 looking for help with **CHI-Workshop Proposal Writing**
+
 ![footer](./assets/footer.svg)
 <!--
 ## 🎧 Now Listening to
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bni4ol6owamrrttxhwml6hkhya&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bni4ol6owamrrttxhwml6hkhya&redirect=true)
 
-I am a <a href="https://open.spotify.com/user/31bni4ol6owamrrttxhwml6hkhya?si=603e26ce75d8426b"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a> addict 🎶
+I used to be a <a href="https://open.spotify.com/user/31bni4ol6owamrrttxhwml6hkhya?si=603e26ce75d8426b"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a> addict 🎶 [^stats]: Github stats customisation from https://github.com/kittinan/spotify-github-profile
 
 Next up: 
-- hellofriend banner
-[^stats]: Github stats customisation from https://github.com/kittinan/spotify-github-profile
+
 [^badge]: Markdown badges from https://github.com/Ileriayo/markdown-badges
 -->
