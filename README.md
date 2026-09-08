@@ -26,13 +26,14 @@ summer     open to work — Summer 2027 Internships
 future     UX Researcher · UI/UX Designer · Product Designer (grad/PhD intern)
 ```
 
-[`❯ open portfolio`](https://krithvi.github.io/space-cadet/) · [`❯ open cv.pdf`](https://krithvi.github.io/krithvi/CV.pdf)
+<tab> </tab> [`❯ open portfolio`](https://krithvi.github.io/space-cadet/)
+[`❯ open cv.pdf`](https://krithvi.github.io/krithvi/CV.pdf)
 
-[Linkedin: kavya-rajendran](https://www.linkedin.com/in/kavya-rajendran) · [Behance: krithvi](https://www.behance.net/krithvi) · [Twitter: kavyakrithvi](https://twitter.com/kavyakrithvi)
-
+<a href="https://www.linkedin.com/in/kavya-rajendran"><img src="https://img.shields.io/badge/kavya--rajendran-0A66C2?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEwMC4yOCA0NDhINy40VjE0OC45aDkyLjg4ek01My43OSAxMDguMUMyNC4wOSAxMDguMSAwIDgzLjUgMCA1My44YTUzLjc5IDUzLjc5IDAgMCAxIDEwNy41OCAwYzAgMjkuNy0yNC4xIDU0LjMtNTMuNzkgNTQuM3pNNDQ3LjkgNDQ4aC05Mi42OFYzMDIuNGMwLTM0LjctLjctNzkuMi00OC4yOS03OS4yLTQ4LjI5IDAtNTUuNjkgMzcuNy01NS42OSA3Ni43VjQ0OGgtOTIuNzhWMTQ4LjloODkuMDh2NDAuOGgxLjNjMTIuNC0yMy41IDQyLjY5LTQ4LjMgODcuODgtNDguMyA5NCAwIDExMS4yOCA2MS45IDExMS4yOCAxNDIuM1Y0NDh6Ii8+PC9zdmc+" alt="Linkedin: kavya-rajendran" /></a>
+<a href="https://x.com/kavyakrithvi"><img src="https://img.shields.io/badge/kavyakrithvi-%23000000.svg?&style=plastic&logo=X&logoColor=white" alt="Twitter/X: kavyakrithvi" /></a>
 <a href="https://scholar.google.com/citations?user=w7iv7qgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Kavya%20Rajendran-%234285F4.svg?style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar: Kavya Rajendran" /></a>
 <a href="https://www.behance.net/krithvi"><img src="https://img.shields.io/badge/krithvi-1769ff?style=plastic&logo=behance&logoColor=white" alt="Behance: krithvi" /></a>
-<a href="https://www.linkedin.com/in/kavya-rajendran"><img src="https://img.shields.io/badge/kavya--rajendran-0A66C2?&style=plastic&logo=linkedin&logoColor=white" alt="Linkedin: kavya-rajendran" /></a>
+
 ## `$ cat skills.json`
  
 ### design
